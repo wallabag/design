@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="842px" height="595px" viewBox="0 0 842 595" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>reader</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -123,7 +123,7 @@
                 <text id="difference" font-family="SFProText-Regular, SF Pro Text" font-size="16" font-weight="normal" line-spacing="21" fill="#39475F">
                     <tspan x="0" y="476">The reader wants a wallabag like any other modern web apps (s)he may use. A </tspan>
                     <tspan x="0" y="497">modern front-end, a progressive web app (PWA), the synchronisation of the </tspan>
-                    <tspan x="0" y="518">reading point accross devices and a progressive web apps are some things </tspan>
+                    <tspan x="0" y="518">reading point accross devices and a more efficient wallabagger are some things </tspan>
                     <tspan x="0" y="539">which could make her/him happy.</tspan>
                 </text>
                 <text id="NEEDS" font-family="SFProText-Semibold, SF Pro Text" font-size="16" font-weight="500" line-spacing="21" fill="#9BBFD2">
